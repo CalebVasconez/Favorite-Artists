@@ -2,8 +2,8 @@ Personal Favorite 70's Rock Band
 ================================
 
 
-About
------
+Led Zeppelin
+------------
 .. image:: led-zeppelin-pic.jpg
     :width: 100%
 .. [Ref] https://variety.com/2019/film/global/cannes-bernard-macmahon-led-zeppelin-feature-documentary-altitude-1203208613/.
@@ -18,3 +18,11 @@ critics as the most innovative and influential bands in rock history. The Band h
 albums and all nine albums made it into the Billboard top 10 with six of their albums receiving
 the first spot. They are the third best selling band in U.S. history. The band was also inducted
 into the Rock and Roll Hall of Fame in 1995.
+
++------------------------+-----------------+-----------------------------------+----------+
+| Favorite Album by the  | Led             | .. image:: led_zeppelin_album.png | Released |
+| Artist                 | Zeppelin        |     :width: 50%                   |  1969    |
++------------------------+-----------------+-----------------------------------+----------+
+| Favorite Song by the   | Achilles Last   |  First song on the Album          | Released |
+| Artist                 | Stand           |    Presence                       |  1976    |
++------------------------+-----------------+-----------------------------------+----------+
