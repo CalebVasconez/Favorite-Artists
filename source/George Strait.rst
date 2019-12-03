@@ -55,6 +55,7 @@ Songs by Strait include:
 * "Give It All We Got Tonight" (2013)
 * "The Weight of the Badge" (2019)
 
+Check out his most recent album, `Honky Tonk Time Machine <https://www.youtube.com/watch?v=mbsAR34otGQ&list=OLAK5uy_m6gQsSfSEzdpW_jgsYO4pEDisY_hZcuu8>`_, to listen to his most recent songs.
 
 .. rubric:: Footnotes
 

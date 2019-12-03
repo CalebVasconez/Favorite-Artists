@@ -50,6 +50,8 @@ Songs by Toby Keith include:
 * "Courtesy of the Red, White, and Blue" (2002)
 * "Red Solo Cup" (2011)
 
+Click to listen to one of his albums on YouTube: `Shock 'N Y'all <https://www.youtube.com/watch?v=-Fulz4ytZ54&list=OLAK5uy_mnHD9Z28OV92YdTKZciYo3QLva_QuqITI>`_.
+
 .. rubric:: Footnotes
 
 .. [#] Retrieved from `San Diego County Fair <https://sdfair.com/events/toby-keith/>`_

@@ -62,7 +62,7 @@ Songs by Twain include:
 * "Ka-Ching!" (2002)
 * "Life's About to Get Good" (2017)
 
-
+Click `[here] <https://www.youtube.com/watch?v=mbsAR34otGQ&list=OLAK5uy_m6gQsSfSEzdpW_jgsYO4pEDisY_hZcuu8>`_ to listen to Shania Twain's *Greatest Hits* album released in 2004.
 
 .. rubric:: Footnotes
 
