@@ -6,7 +6,7 @@ Foo Fighters
 ------------
 .. image:: Foo-Fighters.jpg
     :width: 100%
-.. [Ref] https://consequenceofsound.net/2019/10/new-foo-fighters-album/
+[f1]_
 
 About
 -----
@@ -20,7 +20,12 @@ band they have not had the opportunity to be inducted into the Rock and Roll Hal
 +------------------------+-----------------+----------------------------------------+----------+
 | Favorite Album by the  | The Color and   | .. image:: TheColourAndTheShape.jpg    | Released |
 | Artist                 | the Shape       |     :width: 50%                        |  1997    |
+|                        |                 | [f2]_                                  |          |
 +------------------------+-----------------+----------------------------------------+----------+
 | Favorite Song by the   | The Pretender   |  First song on the Album               | Released |
 | Artist                 |                 |  Echoes, Silence, Patience and Grace   |  2007    |
 +------------------------+-----------------+----------------------------------------+----------+
+
+.. rubric:: Footnotes
+.. [#f1] Foo Fighters hit the studio to begin work on new album. (2019, October 1). Retrieved from https://consequenceofsound.net/2019/10/new-foo-fighters-album/.
+.. [#f2] The Colour and the Shape. (2019, November 26). Retrieved from https://en.wikipedia.org/wiki/The_Colour_and_the_Shape.
