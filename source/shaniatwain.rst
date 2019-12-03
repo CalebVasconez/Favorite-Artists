@@ -55,7 +55,7 @@ Year  Award
 
 Songs by Twain include:
 
-* "Man! I Feel Like a Aoman!" (1997)
+* "Man! I Feel Like a Woman!" (1997)
 * "From This Moment On" (1997)
 * "Whose Bed Have Your Boots Been Under" (1995)
 * "Ka-Ching!" (2002)
