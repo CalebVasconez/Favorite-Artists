@@ -1,7 +1,7 @@
 Shania Twain
 ==============
 
-
+.. image:: shania-twain.jpg
 
 
 **Biography**
