@@ -27,9 +27,11 @@ recent album **KOD**.
 Suggested Playlist
 ------------------
 
-==============    ======================
-Album             Song
-==============    ======================
-KOD               KOD
-KOD               Motiv8
-I am I Was        A Lot feat. 21 Savage
+=================   ======================
+Album               Song
+=================   ======================
+KOD                 KOD
+KOD                 Motiv8
+I am I Was(feat.)   A Lot feat. 21 Savage
+4 Your Eyez Only    Neighbors
+4 Your Eyez
