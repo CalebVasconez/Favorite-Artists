@@ -1,12 +1,9 @@
 Toby Keith
 ===========
 
-<<<<<<< HEAD
+.. image:: Toby-Keith.jpeg
 
 
-
-=======
->>>>>>> 85243475b0cc9958af102e57009e8525f4221133
 **Biography**
 
 Tony Keith, born on July 8, 1961, is a singer,
@@ -18,28 +15,19 @@ friends and performed at local bars on top of his oil
 work.
 
 Keith's debut single was "Should've Been a Cowboy"
-<<<<<<< HEAD
 reached number one on the U.S. *Billboard* Hot Country
-=======
-reached number one on the U.S. Billboard Hot Country
->>>>>>> 85243475b0cc9958af102e57009e8525f4221133
 Songs chart in 1993 and became the most played song
 in the 90s. According to a 2013 Forbes article,
 Toby Keith is worth about $500 million [#]_.
 
-<<<<<<< HEAD
 
 **Awards**
 
 Toby Keith gas been the recipient of several awards, such as:
-=======
-Toby Keith gas been the recipient of several awards.
->>>>>>> 85243475b0cc9958af102e57009e8525f4221133
 
 * Country Music Association Awards
 
   * 2001: Male vocalist of the year
-<<<<<<< HEAD
   * 2012: Music Video of the Year ("Red Solo Cup")
 
 * Academy of Country Music Awards
@@ -65,11 +53,3 @@ Songs by Toby Keith include:
 
 .. [#] https://www.forbes.com/sites/zackomalleygreenburg/2013/06/26/toby-keith-cowboy-capitalist-countrys-500-million-man/#35694bd8f930
 
-=======
-  *
-
-
-.. rubric:: Footnotes
-
-.. [#] https://www.forbes.com/sites/zackomalleygreenburg/2013/06/26/toby-keith-cowboy-capitalist-countrys-500-million-man/#35694bd8f930
->>>>>>> 85243475b0cc9958af102e57009e8525f4221133
