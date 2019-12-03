@@ -10,11 +10,18 @@ Welcome to Favorite Artists's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   Rammstein
+   Five Finger Death Punch
+   Asking Alexandria
+   Disturbed
+   00's Rock
+   90's Rock
+   80's Rock
+   70's Rock
+   George Strait
+   Toby Keith
+   Carrie Underwood
+   Shania Twain
 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
