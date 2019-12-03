@@ -1,8 +1,9 @@
 Carrie Underwood
 =================
 
+.. image:: carrieu.jpg
 
-
+*Carrie Underwood* [#]_
 
 **Biography**
 
@@ -79,3 +80,8 @@ Songs by Underwood include:
 * "Good Girl" (2012)
 * "Dirty Laundry" (2015)
 * "Cry Pretty" (2018)
+
+
+.. rubric:: Footnotes
+
+.. [#] Merrit, Jason (Photographer). (2014). Retrieved from `USA Today <https://www.usmagazine.com/stylish/news/carrie-underwood-makeup-2014-acm-awards-201474/>`_

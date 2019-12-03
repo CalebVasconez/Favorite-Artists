@@ -1,7 +1,7 @@
 George Strait
 ==============
 
-
+.. image:: george-strait.jpg
 
 
 **Biography**

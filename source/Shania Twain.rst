@@ -65,6 +65,7 @@ Songs by Twain include:
 
 .. rubric:: Footnotes
 
+.. [#] Smith, Christopher (Photographer). (2019, June 14). Retrieved from `Las Vegas Review-Journal <https://www.reviewjournal.com/entertainment/entertainment-columns/kats/shania-twain-returning-to-las-vegas-strip-with-new-residency-1688935/>`_
 .. [#] https://www.independent.co.uk/arts-entertainment/music/features/shania-twain-interview-now-album-released-stream-download-spotify-tour-dates-tickets-a7947596.html
 .. [#] https://www.celebritynetworth.com/richest-celebrities/singers/shania-twain-net-worth/
 .. [#] https://www.cbcmusic.ca/posts/19869/shania-twain-host-2018-ccmas-hamilton
