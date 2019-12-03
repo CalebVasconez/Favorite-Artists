@@ -22,6 +22,10 @@ Welcome to Favorite Artists's documentation!
    Toby Keith
    Carrie Underwood
    Shania Twain
+   Eminem
+   J Cole
+   Logic
+   Joyner Lucas
 
 
 
