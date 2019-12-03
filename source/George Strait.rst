@@ -1,7 +1,9 @@
 George Strait
 ==============
 
-.. image:: george-strait.jpg
+.. image:: george-strait-2.jpg
+
+*George Strait* [#]_
 
 
 **Biography**
@@ -48,7 +50,7 @@ Songs by Strait include:
 * "Amarillo by Morning" (1982)
 * "Check Yes or No" (1995)
 * "I Can Still Make Cheyenne" (1996)
-* "All my Ex’s Live in Texas" (1987)
+* "All my Ex's Live in Texas" (1987)
 * "Condigo" (2018)
 * "Give It All We Got Tonight" (2013)
 * "The Weight of the Badge" (2019)
@@ -56,4 +58,5 @@ Songs by Strait include:
 
 .. rubric:: Footnotes
 
+.. [#] Retrieved from `SoundCloud <https://soundcloud.com/george-strait-music>`_
 .. [#] https://www.gobankingrates.com/net-worth/celebrities/richest-country-music-stars/

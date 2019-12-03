@@ -1,7 +1,7 @@
 Carrie Underwood
 =================
 
-.. image:: carrieu.jpg
+.. image:: carrieu-2.jpg
 
 *Carrie Underwood* [#]_
 

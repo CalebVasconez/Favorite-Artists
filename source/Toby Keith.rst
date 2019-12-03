@@ -1,7 +1,8 @@
 Toby Keith
 ===========
 
-.. image:: Toby-Keith.jpeg
+.. image:: Toby-Keith-2.jpg
+
 *Toby Keith* [#]_
 
 **Biography**
