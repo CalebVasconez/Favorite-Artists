@@ -53,5 +53,5 @@ Songs by Toby Keith include:
 .. rubric:: Footnotes
 
 .. [#] Retrieved from `San Diego County Fair <https://sdfair.com/events/toby-keith/>`_
-.. [#] https://www.forbes.com/sites/zackomalleygreenburg/2013/06/26/toby-keith-cowboy-capitalist-countrys-500-million-man/#35694bd8f930
+.. [#] Greenburg, Z. O. M. (2015, July 29). "Toby Keith, Cowboy Capitalist: Country's $500 Million Man". Retrieved from `Forbes <https://www.forbes.com/sites/zackomalleygreenburg/2013/06/26/toby-keith-cowboy-capitalist-countrys-500-million-man/#35694bd8f930>`_.
 

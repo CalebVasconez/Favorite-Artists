@@ -59,4 +59,4 @@ Songs by Strait include:
 .. rubric:: Footnotes
 
 .. [#] Retrieved from `SoundCloud <https://soundcloud.com/george-strait-music>`_
-.. [#] https://www.gobankingrates.com/net-worth/celebrities/richest-country-music-stars/
+.. [#] Lisa, A. (2019, April 24). "The 30 Richest Country Music Stars, Ranked." Retrieved from `GO Banking Rates <https://www.gobankingrates.com/net-worth/celebrities/richest-country-music-stars/>`_.
