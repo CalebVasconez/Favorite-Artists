@@ -51,5 +51,6 @@ Songs by Toby Keith include:
 
 .. rubric:: Footnotes
 
+.. [#] Retrieved from `San Diego County Fair <https://sdfair.com/events/toby-keith/>`_
 .. [#] https://www.forbes.com/sites/zackomalleygreenburg/2013/06/26/toby-keith-cowboy-capitalist-countrys-500-million-man/#35694bd8f930
 
