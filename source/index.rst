@@ -16,7 +16,7 @@ The first four is in the **Metal Genre**, next four are in the **Rock Genre**, t
    rammstein
    Five Finger Death Punch
    asking alexandria
-   Disturbed
+   disturbed
    00's Rock
    90's Rock
    80's Rock
