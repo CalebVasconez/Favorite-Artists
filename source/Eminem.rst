@@ -6,7 +6,7 @@ About
 
 .. image:: eminem.jpg
 
-*Eminem* [f1]_
+*Eminem*
 
 Eminem's real name is **Marshall Bruce Mathers III**.
 He was originally born in Saint Joseph, Missouri
@@ -30,7 +30,7 @@ From that meeting came his top singles:
 Eventually his first Billboard album "The Slim Shady LP".
 Since then, Eminem has sold over 49.1 million albums,
 and is known for having the most insane lyricism.
-Eminem's most recent album is **Kamikaze**. [f2]_
+Eminem's most recent album is **Kamikaze**. [#]_
 
 Suggested Playlist
 ------------------
@@ -52,10 +52,10 @@ Curtain Call                     Shake That
 Other Information
 -----------------
 
-* Networth: $210 Million [f3]_
+* Networth: $210 Million [#]_
 * Hometown: Born in Saint Joseph, Raised in Detroit Michigan
 
 .. rubric:: Footnotes
-.. [f1] "Eminem". Eminem. (2019, September 5). Retrieved from https://www.biography.com/musician/eminem.
-.. [f2] "Eminem's real name". Eminem. (2019, September 5). Retrieved from https://www.biography.com/musician/eminem.
-.. [f3] "Networth". Western, D. (2019, June 4). The 25 Richest Rappers in the World 2019. Retrieved from https://wealthygorilla.com/top-20-richest-rappers-world/.
+..
+.. [#] "Eminem's real name". Eminem. (2019, September 5). Retrieved from https://www.biography.com/musician/eminem.
+.. [#] "Networth". Western, D. (2019, June 4). The 25 Richest Rappers in the World 2019. Retrieved from https://wealthygorilla.com/top-20-richest-rappers-world/.

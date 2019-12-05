@@ -6,7 +6,7 @@ About
 
 .. image:: logic.jpg
 
-*Logic* [f1]_
+*Logic* [#]_
 
 Sir Robert Brycen Hall II, originally from Gaithersburg Maryland.
 Being a mixed child he was told that he didn't deserve
@@ -42,7 +42,7 @@ Logic eventually achieved his dream of collaborating with
 his idol Eminem on the song "Homicide". Logic now owns his
 own record label called BobbyBoy Records and has already
 signed more than three artists. His most recent album is
-**Confessions of a Dangerous Mind**. [f2]_
+**Confessions of a Dangerous Mind**. [#]_
 
 Suggested Playlist
 ------------------
@@ -67,11 +67,11 @@ Bobby Tarantino II                                            Contra
 Other Information
 -----------------
 
-* Networth: $14,000,000 [f3]_
+* Networth: $14,000,000 [#]_
 * Hometown: Born in Rockville, Raised in Gaithersburg, Maryland
 
 .. rubric:: Footnotes
 
-.. [f1] "Logic". Payne, O. (2018, May 11). Inside The Business Model Logic Used To Nab His First No. 1 Album, 'Everybody'. Retrieved from https://www.forbes.com/sites/ogdenpayne/2017/05/15/inside-the-business-model-logic-used-to-score-his-first-no-1-album-everybody/#6aadf9066794.
-.. [f2] "Sir Robert Brycen". Edes, A., Greene, D., & Hajek, D. (2017, May 15). Logic Is Ready To Tell The World Who He Is. Retrieved from https://www.npr.org/2017/05/15/528159035/logic-is-ready-to-tell-the-world-who-he-is.
-.. [f3] "Networth". Western, D. (2019, January 18). Logic Net Worth. Retrieved from https://wealthygorilla.com/logic-net-worth/.
+.. [#] "Logic". Payne, O. (2018, May 11). Inside The Business Model Logic Used To Nab His First No. 1 Album, 'Everybody'. Retrieved from https://www.forbes.com/sites/ogdenpayne/2017/05/15/inside-the-business-model-logic-used-to-score-his-first-no-1-album-everybody/#6aadf9066794.
+.. [#] "Sir Robert Brycen". Edes, A., Greene, D., & Hajek, D. (2017, May 15). Logic Is Ready To Tell The World Who He Is. Retrieved from https://www.npr.org/2017/05/15/528159035/logic-is-ready-to-tell-the-world-who-he-is.
+.. [#] "Networth". Western, D. (2019, January 18). Logic Net Worth. Retrieved from https://wealthygorilla.com/logic-net-worth/.

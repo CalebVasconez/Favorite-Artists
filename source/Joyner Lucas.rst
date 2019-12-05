@@ -3,7 +3,7 @@ Joyner Lucas
 
 .. figure:: joyner.jpg
 
-*Joyner Lucas* [f1]_
+*Joyner Lucas* [#]_
 
 About
 -----
@@ -28,7 +28,7 @@ song to this day.
 Joyner's top influences in the industry are:
 *Eminem*, *Jay-Z*, *Tupac*, *Notorious B.I.G.*, and *Method Man*.
 His most recent album was released in May of 2019,
-called **ADHD.** [f2]_
+called **ADHD.** [#]_
 
 Suggested Playlist
 ------------------
@@ -47,13 +47,13 @@ Mixtape              508-507-2209
 Other Information
 -----------------
 
-* Networth: Estimated $1,000,000 [f3]_
+* Networth: Estimated $1,000,000 [#]_
 * Hometown: Worcester, Massechusets
 
 `Check out Joyner's Youtube Page! <https://www.youtube.com/user/RealJoynerLucas>`_
 
 .. rubric:: Footnotes
 
-.. [f1] "Joyner Lucas". Twitter account, J. L. V. (2019, September 15). Joyner Lucas (@JoynerLucas). Retrieved from https://twitter.com/joynerlucas
-.. [f2] "Gary Lucas". Who is Joyner Lucas? Everything You Need to Know. (n.d.). Retrieved from https://www.thefamouspeople.com/profiles/joyner-luca-42308.php.
-.. [f3] "Networth". Wallin, E. (2019, February 13). Joyner Lucas Net Worth. Retrieved from https://wealthygorilla.com/joyner-lucas-net-worth/
+.. [#] "Joyner Lucas". Twitter account, J. L. V. (2019, September 15). Joyner Lucas (@JoynerLucas). Retrieved from https://twitter.com/joynerlucas
+.. [#] "Gary Lucas". Who is Joyner Lucas? Everything You Need to Know. (n.d.). Retrieved from https://www.thefamouspeople.com/profiles/joyner-luca-42308.php.
+.. [#] "Networth". Wallin, E. (2019, February 13). Joyner Lucas Net Worth. Retrieved from https://wealthygorilla.com/joyner-lucas-net-worth/
