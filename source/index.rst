@@ -6,9 +6,12 @@
 Welcome to Favorite Artists's documentation!
 ============================================
 
+The first four is in the **Metal Genre**, next four are in the **Rock Genre**, the third group are in the **Country Genre**, and the last group are in the **Rap Genre**.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
 
    Rammstein
    Five Finger Death Punch
