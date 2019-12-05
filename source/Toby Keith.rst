@@ -1,7 +1,8 @@
 Toby Keith
 ===========
 
-.. image:: Toby-Keith.jpeg
+.. image:: Toby-Keith-2.jpg
+
 *Toby Keith* [#]_
 
 **Biography**
@@ -31,6 +32,7 @@ Toby Keith gas been the recipient of several awards, such as:
   * 2012: Music Video of the Year ("Red Solo Cup")
 
 * Academy of Country Music Awards
+
   * 2000: Album of the Year ("How Do You Like Me Now")
   * 2003: Video of the year ("Beer For My Horses")
 
@@ -49,8 +51,10 @@ Songs by Toby Keith include:
 * "Courtesy of the Red, White, and Blue" (2002)
 * "Red Solo Cup" (2011)
 
+Click to listen to one of his albums on YouTube: `Shock 'N Y'all <https://www.youtube.com/watch?v=-Fulz4ytZ54&list=OLAK5uy_mnHD9Z28OV92YdTKZciYo3QLva_QuqITI>`_.
+
 .. rubric:: Footnotes
 
 .. [#] Retrieved from `San Diego County Fair <https://sdfair.com/events/toby-keith/>`_
-.. [#] https://www.forbes.com/sites/zackomalleygreenburg/2013/06/26/toby-keith-cowboy-capitalist-countrys-500-million-man/#35694bd8f930
+.. [#] Greenburg, Z. O. M. (2015, July 29). "Toby Keith, Cowboy Capitalist: Country's $500 Million Man". Retrieved from `Forbes <https://www.forbes.com/sites/zackomalleygreenburg/2013/06/26/toby-keith-cowboy-capitalist-countrys-500-million-man/#35694bd8f930>`_.
 

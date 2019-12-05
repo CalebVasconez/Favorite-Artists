@@ -1,7 +1,9 @@
 George Strait
 ==============
 
-.. image:: george-strait.jpg
+.. image:: george-strait-2.jpg
+
+*George Strait* [#]_
 
 
 **Biography**
@@ -48,12 +50,14 @@ Songs by Strait include:
 * "Amarillo by Morning" (1982)
 * "Check Yes or No" (1995)
 * "I Can Still Make Cheyenne" (1996)
-* "All my Ex’s Live in Texas" (1987)
+* "All my Ex's Live in Texas" (1987)
 * "Condigo" (2018)
 * "Give It All We Got Tonight" (2013)
 * "The Weight of the Badge" (2019)
 
+Check out his most recent album, `Honky Tonk Time Machine <https://www.youtube.com/watch?v=mbsAR34otGQ&list=OLAK5uy_m6gQsSfSEzdpW_jgsYO4pEDisY_hZcuu8>`_, to listen to his most recent songs.
 
 .. rubric:: Footnotes
 
-.. [#] https://www.gobankingrates.com/net-worth/celebrities/richest-country-music-stars/
+.. [#] Retrieved from `SoundCloud <https://soundcloud.com/george-strait-music>`_
+.. [#] Lisa, A. (2019, April 24). "The 30 Richest Country Music Stars, Ranked." Retrieved from `GO Banking Rates <https://www.gobankingrates.com/net-worth/celebrities/richest-country-music-stars/>`_.

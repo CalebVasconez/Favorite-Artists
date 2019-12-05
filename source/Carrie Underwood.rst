@@ -1,7 +1,7 @@
 Carrie Underwood
 =================
 
-.. image:: carrieu.jpg
+.. image:: carrieu-2.jpg
 
 *Carrie Underwood* [#]_
 
@@ -81,6 +81,7 @@ Songs by Underwood include:
 * "Dirty Laundry" (2015)
 * "Cry Pretty" (2018)
 
+Visit `Carrie Underwood's YouTube <https://www.youtube.com/user/carrieunderwood>`_ to listen to some of her songs.
 
 .. rubric:: Footnotes
 
