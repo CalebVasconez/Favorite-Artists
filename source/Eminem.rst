@@ -8,7 +8,7 @@ About
 
 *Eminem* [f1]_
 
-Eminem's real name is Marshall Bruce Mathers III.
+Eminem's real name is **Marshall Bruce Mathers III**.
 He was originally born in Saint Joseph, Missouri
 and later relocated to Detroit, Michigan.
 His mother had a rough time moving back and forth
@@ -21,7 +21,7 @@ His first album Infinite blew up in 1996, as he started
 getting a deserving recognition for being a white artist
 coming into a predominantly black industry.
 
-He was noticed at the Rap Olympics in 1997 and
+He was noticed at the *Rap Olympics* in 1997 and
 earned second place to a man who knew the judges.
 He gave his mix-tape to a man who knew Doctor Dre
 and stemmed a meeting with the infamous NWA artist.
@@ -55,6 +55,7 @@ Other Information
 * Networth: $210 Million [f3]_
 * Hometown: Born in Saint Joseph, Raised in Detroit Michigan
 
+.. rubric:: Footnotes
 .. [f1] "Eminem". Eminem. (2019, September 5). Retrieved from https://www.biography.com/musician/eminem.
 .. [f2] "Eminem's real name". Eminem. (2019, September 5). Retrieved from https://www.biography.com/musician/eminem.
 .. [f3] "Networth". Western, D. (2019, June 4). The 25 Richest Rappers in the World 2019. Retrieved from https://wealthygorilla.com/top-20-richest-rappers-world/.

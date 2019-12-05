@@ -8,7 +8,7 @@ Joyner Lucas
 About
 -----
 
-Gary Lucas was born and raised on the East Coast.
+**Gary Lucas** was born and raised on the East Coast.
 Lucas was very young when his parents went through
 a difficult divorce. He has two siblings.
 His stepfather played a huge role in his upbringing.
@@ -26,7 +26,7 @@ unification in America. This is still Joyner's most well-known
 song to this day.
 
 Joyner's top influences in the industry are:
-Eminem, Jay-Z, Tupac, Notorious B.I.G., and Method Man.
+*Eminem*, *Jay-Z*, *Tupac*, *Notorious B.I.G.*, and *Method Man*.
 His most recent album was released in May of 2019,
 called **ADHD.** [f2]_
 
@@ -49,6 +49,10 @@ Other Information
 
 * Networth: Estimated $1,000,000 [f3]_
 * Hometown: Worcester, Massechusets
+
+`Check out Joyner's Youtube Page! <https://www.youtube.com/user/RealJoynerLucas>`_
+
+.. rubric:: Footnotes
 
 .. [f1] "Joyner Lucas". Twitter account, J. L. V. (2019, September 15). Joyner Lucas (@JoynerLucas). Retrieved from https://twitter.com/joynerlucas
 .. [f2] "Gary Lucas". Who is Joyner Lucas? Everything You Need to Know. (n.d.). Retrieved from https://www.thefamouspeople.com/profiles/joyner-luca-42308.php.

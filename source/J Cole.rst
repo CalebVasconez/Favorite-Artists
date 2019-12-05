@@ -8,7 +8,7 @@ J-Cole
 About
 -----
 
-J-Cole was born at a U.S Army Base in West Germany.
+**J-Cole** was born at a U.S Army Base in West Germany.
 When Cole was a baby, his mom relocated to
 North Carolina and remained in poverty for a big span
 of his childhood. His mother remarried to a man that
@@ -28,7 +28,7 @@ successful which featured the hit single, "Work Out".
 Cole rose to fame and was Number 1 on the Billboard
 200 with singles from "2014 Forest Hills Drive"
 and "4 Your Eyez Only". Cole has produced for Kendrick Lamar
-and has been recognized by Barack Obama. He broke Spotify's streaming
+and has been recognized by *Barack Obama*. He broke *Spotify's* streaming
 record with his album 'KOD'. Since then, Cole has appeared
 repeatedly on the Billboard charts with his album **KOD**. [f2]_
 
@@ -55,6 +55,8 @@ Other Information
 
 * Networth: $30,000,000 [f3]_
 * Hometown: Born in Frankfurt, Raised in Fayetteville, North Carolina
+
+.. rubric:: Footnotes
 
 .. [f1] "J Cole". Garrison, L. (2016, April 20). The First Real Hint That J. Cole's Recording a New Album Has Arrived. Retrieved from https://djbooth.net/features/2016-04-20-j-cole-new-album.
 .. [f2] "J-Cole". Staff, B. (2019, June 21). J. Cole. Retrieved from https://www.biography.com/musician/j-cole.

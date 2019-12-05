@@ -15,9 +15,9 @@ struggles that black communities have to go through.
 Logic grew up in poverty inside a drug abusive household
 and quickly relied on the streets as an outlet.
 At the age of 14 he found a love for rap after watching
-Quentin Tarantino. At 17 years old he ran away from home
+*Quentin Tarantino*. At 17 years old he ran away from home
 due to his abusive mother and began pursuing his music career.
-In 2009 he released "Logic: The Mix-tape" and started
+In 2009 he released *Logic: The Mix-tape* and started
 performing with the name of "Psychological". In 2010 he released
 an album called "Young, Broke & Infamous" which
 later led to a contract with Visionary Music Group.
@@ -47,22 +47,22 @@ signed more than three artists. His most recent album is
 Suggested Playlist
 ------------------
 
-=============================================    ================================
-Album                                            Song
-=============================================    ================================
-Under Pressure                                   Alright feat. Big Sean
-Under Pressure                                   Under Pressure
-Everybody                                        Take It Back
-Incredible True Story                            Lord Willin'
-Young Broke & Infamous                           YB&I
-Incredible True Story                            Fade Away
-Incredible True Story                            Run It
-YSIV                                             Everybody Dies
-YSIV                                             WuTang Forever
-COADM                                            Homicide feat. Eminem
-COADM                                            Icy feat. Gucci Mane
-Bobby Tarantino II                               Contra
-=============================================    ================================
+==========================================================    ==============================================
+Album                                                         Song
+==========================================================    ==============================================
+Under Pressure                                                Alright feat. Big Sean
+Under Pressure                                                Under Pressure
+Everybody                                                     Take It Back
+Incredible True Story                                         Lord Willin'
+Young Broke & Infamous                                        YB&I
+Incredible True Story                                         Fade Away
+Incredible True Story                                         Run It
+YSIV                                                          Everybody Dies
+YSIV                                                          WuTang Forever
+COADM                                                         Homicide feat. Eminem
+COADM                                                         Icy feat. Gucci Mane
+Bobby Tarantino II                                            Contra
+==========================================================    ==============================================
 
 Other Information
 -----------------
