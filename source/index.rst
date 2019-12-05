@@ -13,9 +13,9 @@ The first four is in the **Metal Genre**, next four are in the **Rock Genre**, t
    :caption: Contents:
 
 
-   Rammstein
+   rammstein
    Five Finger Death Punch
-   Asking Alexandria
+   asking alexandria
    Disturbed
    00's Rock
    90's Rock
