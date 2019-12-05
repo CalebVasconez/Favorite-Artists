@@ -32,6 +32,7 @@ Toby Keith gas been the recipient of several awards, such as:
   * 2012: Music Video of the Year ("Red Solo Cup")
 
 * Academy of Country Music Awards
+
   * 2000: Album of the Year ("How Do You Like Me Now")
   * 2003: Video of the year ("Beer For My Horses")
 
